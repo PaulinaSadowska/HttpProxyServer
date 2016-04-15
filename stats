@@ -1,0 +1,110 @@
+{
+  "www.onet.pl": {
+    "amountOfData": 2457,
+    "numOfVisits": 4
+  },
+  "gazeta.pl": {
+    "amountOfData": 1356,
+    "numOfVisits": 7
+  },
+  "biv.gazeta.pl": {
+    "amountOfData": 7495,
+    "numOfVisits": 1
+  },
+  "fee.put.poznan.pl": {
+    "amountOfData": 31936,
+    "numOfVisits": 1
+  },
+  "put.poznan.pl": {
+    "amountOfData": 13836,
+    "numOfVisits": 1
+  },
+  "onet.pl": {
+    "amountOfData": 91471,
+    "numOfVisits": 2
+  },
+  "eurosport.onet.pl": {
+    "amountOfData": 15086,
+    "numOfVisits": 2
+  },
+  "www.gazeta.pl": {
+    "amountOfData": 0,
+    "numOfVisits": 15
+  },
+  "joemonster.org": {
+    "amountOfData": 14,
+    "numOfVisits": 4
+  },
+  "www.gazeta.tv": {
+    "amountOfData": 10752,
+    "numOfVisits": 1
+  },
+  "fonts.googleapis.com": {
+    "amountOfData": 401,
+    "numOfVisits": 1
+  },
+  "xml.serwisy.gazeta.pl": {
+    "amountOfData": 8748,
+    "numOfVisits": 3
+  },
+  "polecamy.gazeta.pl": {
+    "amountOfData": 84,
+    "numOfVisits": 9
+  },
+  "fonts.gstatic.com": {
+    "amountOfData": 7872,
+    "numOfVisits": 2
+  },
+  "9gag.org": {
+    "amountOfData": 14,
+    "numOfVisits": 4
+  },
+  "poznajpolske.onet.pl": {
+    "amountOfData": 15086,
+    "numOfVisits": 2
+  },
+  "imasdk.googleapis.com": {
+    "amountOfData": 0,
+    "numOfVisits": 1
+  },
+  "bi.gazeta.pl": {
+    "amountOfData": 12359,
+    "numOfVisits": 108
+  },
+  "onet.tv": {
+    "amountOfData": 3654,
+    "numOfVisits": 2
+  },
+  "static.gazeta.pl": {
+    "amountOfData": 82958,
+    "numOfVisits": 9
+  },
+  "ocdn.eu": {
+    "amountOfData": 5190,
+    "numOfVisits": 111
+  },
+  "qi.ckm.onetapi.pl": {
+    "amountOfData": 1182,
+    "numOfVisits": 1
+  },
+  "bi.im-g.pl": {
+    "amountOfData": 767,
+    "numOfVisits": 5
+  },
+  "static.im-g.pl": {
+    "amountOfData": 173732,
+    "numOfVisits": 10
+  },
+  "wiadomosci.gazeta.pl": {
+    "numOfVisits": 9,
+    "amountOfData": 0
+  },
+  "mvp.onet.pl": {
+    "amountOfData": 954,
+    "numOfVisits": 1
+  },
+  "api.gazeta.pl": {
+    "amountOfData": 8530,
+    "numOfVisits": 3
+  }
+}
